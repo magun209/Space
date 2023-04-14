@@ -1,4 +1,4 @@
-# URL: https://magun209.github.io/Space/starter-code/
+# URL: https://nicolasaguero99.github.io/space-page-frontendmentor/starter-code/
 
 
 # Frontend Mentor - Space tourism website
